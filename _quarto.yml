@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+  - "*.qmd"
+  - "*.md"
+
+website:
+  title: "Ann Johnston"
+  description: "Homepage"
+  navbar:
+    align: center
+    logo: images/icon.png
+    title: false
+    pinned: true
+    search: true
+    style: fixed
+    right:
+      - href: /
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
