@@ -9,11 +9,11 @@ layout: full
 ::: {.column}
 ## Ann Johnston
 
-I'm currently a PhD student in the [department of statistics]() at [Penn State University](), advised by [Dr. Aleksandra Slavković](). 
+I'm currently a PhD student in the [department of statistics](https://science.psu.edu/stat) at [Penn State University](https://psu.edu), advised by [Dr. Aleksandra Slavković](https://sites.psu.edu/sesa/). 
 
 My research interests lie in algebraic statisics and official statistics, with a special focus on understanding and predicting population estimates under missing/incomplete data.
 
-Prior to joining Penn State, I got my Masters' degree in Mathematics from the [University of Southern California](), and did my undergrad in Mathematics at [Harvey Mudd College]().
+Prior to joining Penn State, I got my Masters' degree in Mathematics from the [University of Southern California](https://dornsife.usc.edu/mathematics/), and did my undergrad in Mathematics at [Harvey Mudd College](https://www.hmc.edu/mathematics/).
 :::
 
 ::: {.column}
