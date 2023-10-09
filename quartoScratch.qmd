@@ -1,0 +1,88 @@
+| Role | Course Name | Year |
+|:---|:---|:---|
+|Instructor | Elementary Statitsics | 2017 |
+|Instructor |Introduction to Probability & Statistics | 2013 |
+| TA | ... | ...|
+
+
+# [Service]{style="color: #93E9BE;"}
+---
+
+These are lines
+---
+
+---
+
+hi there you
+
+---
+
+
+## This is a new section
+
+Section body
+
+## Another section
+
+Section body
+
+
+This is a bulleted list:
+
+* Item 1
+* Item 2
+
+
+This is a numbered list:
+
+1. Item 1
+1. Item 2
+1. Item 3
+
+
+This is an alphabetical list:
+
+a. Item 1
+a. Item 2
+a. Item 3
+
+This is a complicated list:
+
+1. Something
+    - Something else
+    - Something else
+    - Something else
+1. Something
+    - Something else
+1. Something
+    - Something else
+
+
+This is a callout:
+
+::: {.callout-note}
+## Callout heading
+This is the callout body
+:::
+
+
+::: {.callout-tip}
+## Callout heading
+This is the callout body
+:::
+
+::: {.callout-cauton}
+## Callout heading
+This is the callout body
+:::
+
+
+::: {.callout-important}
+## Callout heading
+This is the callout body
+:::
+
+::: {.callout-warning}
+## Callout heading
+This is the callout body
+:::

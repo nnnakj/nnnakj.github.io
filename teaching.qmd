@@ -2,4 +2,4 @@
 title: "Teaching"
 ---
 
-About this site
+... add teaching here (and maybe service and outreach too!)

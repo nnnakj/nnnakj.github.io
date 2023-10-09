@@ -18,7 +18,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "About this site"
+    "text": "… add teaching here (and maybe service and outreach too!)"
   },
   {
     "objectID": "cv.html",
@@ -26,5 +26,40 @@
     "title": "CV",
     "section": "",
     "text": "My resume is available as a PDF here. (Last updated: Oct, 2023)"
+  },
+  {
+    "objectID": "teaching.html#this-is-a-new-section",
+    "href": "teaching.html#this-is-a-new-section",
+    "title": "Teaching",
+    "section": "This is a new section",
+    "text": "This is a new section\nSection body"
+  },
+  {
+    "objectID": "teaching.html#another-section",
+    "href": "teaching.html#another-section",
+    "title": "Teaching",
+    "section": "Another section",
+    "text": "Another section\nSection body\nThis is a bulleted list:\n\nItem 1\nItem 2\n\nThis is a numbered list:\n\nItem 1\nItem 2\nItem 3\n\nThis is an alphabetical list:\n\nItem 1\nItem 2\nItem 3\n\nThis is a complicated list:\n\nSomething\n\nSomething else\nSomething else\nSomething else\n\nSomething\n\nSomething else\n\nSomething\n\nSomething else\n\n\nThis is a callout:\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body"
+  },
+  {
+    "objectID": "quartoScratch.html",
+    "href": "quartoScratch.html",
+    "title": "Ann Johnston",
+    "section": "",
+    "text": "Role\nCourse Name\nYear\n\n\n\n\nInstructor\nElementary Statitsics\n2017\n\n\nInstructor\nIntroduction to Probability & Statistics\n2013\n\n\nTA\n…\n…"
+  },
+  {
+    "objectID": "quartoScratch.html#this-is-a-new-section",
+    "href": "quartoScratch.html#this-is-a-new-section",
+    "title": "Ann Johnston",
+    "section": "This is a new section",
+    "text": "This is a new section\nSection body"
+  },
+  {
+    "objectID": "quartoScratch.html#another-section",
+    "href": "quartoScratch.html#another-section",
+    "title": "Ann Johnston",
+    "section": "Another section",
+    "text": "Another section\nSection body\nThis is a bulleted list:\n\nItem 1\nItem 2\n\nThis is a numbered list:\n\nItem 1\nItem 2\nItem 3\n\nThis is an alphabetical list:\n\nItem 1\nItem 2\nItem 3\n\nThis is a complicated list:\n\nSomething\n\nSomething else\nSomething else\nSomething else\n\nSomething\n\nSomething else\n\nSomething\n\nSomething else\n\n\nThis is a callout:\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body\n\n\n\n\n\n\n\n\nCallout heading\n\n\n\nThis is the callout body"
   }
 ]
