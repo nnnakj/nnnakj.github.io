@@ -1,3 +1,8 @@
+---
+title: "Quarto Quick-guide"
+---
+
+
 | Role | Course Name | Year |
 |:---|:---|:---|
 |Instructor | Elementary Statitsics | 2017 |
