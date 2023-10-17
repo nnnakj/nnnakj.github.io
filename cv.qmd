@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-My resume is available as a PDF [here](files/resume.pdf). (Last updated: October 2023)
+My resume is available as a PDF [here](files/resumeNoSymb.pdf). (Last updated: October, 2023)
